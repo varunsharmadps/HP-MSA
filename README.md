@@ -1,7 +1,7 @@
 # HP-MSA
 
 ## Purpose
-The purpose of this system is to provide a mobile based application that displays storage analytics for a series of storage units belonging to HP. The application generates graphical and visual representations of the data depending on how the user chooses to view it. The application periodically has its data updated to ensure data accuracy and reliability.
+The purpose of this system is to provide a mobile based application that displays storage analytics for a series of storage units belonging to Hewlett Packard. The application generates graphical and visual representations of the data depending on how the user chooses to view it. The application periodically has its data updated to ensure data accuracy and reliability.
 
 ## Functionality
 The app will allow users to:
